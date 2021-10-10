@@ -7,3 +7,13 @@ body {
   height: 100%;
   display: block;
 }
+
+/* 2. set appropriate css for the camera vectors */
+#camera-vectors {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: grey;
+  padding: 8px;
+  color: white;
+}
